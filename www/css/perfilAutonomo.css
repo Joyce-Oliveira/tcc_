@@ -17,7 +17,7 @@ body {
 
 #textarea {
 margin-top: 75px;
-width: 305px;
+width: 334px;
 height: 102px;
 background: rgba(0, 0, 0, 0.03); 
 }
@@ -79,7 +79,7 @@ margin-top: 2%;
 	font-family: Comfortaa;
 	font-size:15px;
 	font-weight:bold;
-	padding:14px 40px;
+	padding:7px 29px;
   text-transform: uppercase;
 }
 .ButtonBranco:active {
@@ -100,7 +100,7 @@ a.ButtonBranco:link{
 	font-family:Confortaa;
 	font-size:15px;
 	font-weight:bold;
-	padding:15px 30px;
+	padding:7px 29px;
   text-transform: uppercase;
 }
 .ButtonPreto:active {

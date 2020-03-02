@@ -8,6 +8,14 @@ body {
   margin-top: 50px;
 }
 
+#voltar img {
+  width: 32px;
+  height: 32px;
+  margin-left: -56px;
+  margin-top: -28px;
+}
+
+
 h1{
   color: black;
   text-align: center;

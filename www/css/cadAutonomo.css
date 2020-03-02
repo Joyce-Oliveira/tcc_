@@ -3,6 +3,13 @@ body {
   background-color: white;
 }
 
+#voltar img {
+  width: 32px;
+  height: 32px;
+  margin-left: -56px;
+  margin-top: -28px;
+}
+
 h1{
   text-align: center;
   color: black;

@@ -7,6 +7,13 @@ body {
   width: 60px;
 }
 
+#voltar img {
+  width: 32px;
+  height: 32px;
+  margin-left: -56px;
+  margin-top: -28px;
+}
+
 label {
   font-size: 20px;
 }
