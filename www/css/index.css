@@ -1,0 +1,109 @@
+body {
+  padding: 25px;
+  background-color: white;
+}
+
+img {
+  margin-top: 10px;
+  margin-left: -22px;
+}
+
+h1{
+position: absolute;
+width: 9px;
+height: 40px;
+left: 150px;
+top: 367px;
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 40px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+color: #000000;
+}
+
+.tracking-in-contract {
+	-webkit-animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+	        animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+@-webkit-keyframes tracking-in-contract {
+  0% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+}
+@keyframes tracking-in-contract {
+  0% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+}
+
+.row{
+text-align : center;
+margin-top: 50%;
+}
+
+/*BOTÕES--------------------------------------------*/
+.ButtonBranco {
+  box-shadow: 0 4px rgba(0,0,0,0.2);
+	background-color:#badaf3;
+	border-radius:14px;
+	border:2px solid #28386b;
+	display:inline-block;
+	color: #28386b;
+	font-family: Comfortaa;
+	font-size:15px;
+	font-weight:bold;
+	padding:14px 40px;
+  text-transform: uppercase;
+}
+.ButtonBranco:active {
+  box-shadow: none;
+	position:relative;
+}
+a.ButtonBranco:link{
+  text-decoration:none;
+}
+
+.ButtonPreto {
+  box-shadow: 0 4px rgba(0,0,0,0.2);
+	background-color:#28386b;
+	border-radius:14px;
+	border:2px solid #badaf3;
+	display:inline-block;
+	color: #badaf3;
+	font-family:Confortaa;
+	font-size:15px;
+	font-weight:bold;
+	padding:15px 30px;
+  text-transform: uppercase;
+}
+.ButtonPreto:active {
+  box-shadow: none;
+	position:relative;
+}
+a.ButtonPreto:link{
+  text-decoration:none;
+}
+/*------------------------------------------------*/
+
+        

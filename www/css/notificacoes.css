@@ -1,0 +1,54 @@
+body {
+  padding: 20px;
+  background-color:white;
+}
+
+.imagem {
+  width: 60px;
+}
+
+label {
+  font-size: 20px;
+}
+
+.text {
+  margin-left: 64px;
+  margin-top: -5px;
+}
+
+h2 {
+  margin-top: -55px;
+  font-size: 20px;
+  margin-left: 65px;
+  font-weight: bold;
+  font-family: Comfortaa;
+  letter-spacing: -0.015em;
+}
+
+
+h1{
+  color: black;
+  text-align: center;
+  margin-top: 2%;
+  font-size: 50px;
+  font-family: Comfortaa;
+  letter-spacing: -0.015em;
+}
+
+.buttons {
+  margin-top: -60px;
+  margin-left: 140px;
+}
+
+.row{
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
